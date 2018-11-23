@@ -1,0 +1,1 @@
+java -jar langdetect.jar --genprofile-text -l [language code] [text file path]
